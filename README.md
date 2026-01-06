@@ -1,7 +1,7 @@
 # 𝗩𝗜𝗥𝗨𝗦-𝗠𝗗 𝗕𝗢𝗧
 
 <p align="center">
-  <img src="https://files.catbox.moe/e71nan.png" height="300" alt="PATRON-MD Logo" />
+  <img src="https://files.catbox.moe/lkojib.jpg" height="300" alt="PATRON-MD Logo" />
 </p>
 
 <p align="center">
