@@ -4,7 +4,7 @@
 // 📦 Core requires
 const express = require('express');
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
 
 // 🌐 Minimal server to keep the bot alive (for Render/Railway)
 app.get('/', (_, res) => res.send('Bot is running!'));
